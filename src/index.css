@@ -1,0 +1,15 @@
+* {
+  font-family: "Roboto", serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 135%;
+  letter-spacing: 0.02em;
+}
+
+span {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  letter-spacing: 2%;
+  line-height: 21px;
+}

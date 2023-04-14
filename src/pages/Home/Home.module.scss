@@ -1,0 +1,26 @@
+.container {
+  display: grid;
+  padding-top: 5em;
+  grid-gap: 36px;
+  grid-template-columns: 320px 2fr;
+  width: 70%;
+  height: 100%;
+  margin: 0 auto;
+
+  .filterSelectTopBorder {
+    border-top: 1px solid #f3f4f5;
+    .filterSelectContainer {
+      margin-top: 20px;
+    }
+  }
+
+  .content {
+    .advertisementContainer {
+      width: 88%;
+      .advertisementListContainer {
+        padding: 10px 0;
+        border-bottom: 1px solid #f3f4f5;
+      }
+    }
+  }
+}
