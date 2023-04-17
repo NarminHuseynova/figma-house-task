@@ -1,2 +1,2 @@
-# figma-house-task
+# figma-house-task-mobx
 yarn dev
